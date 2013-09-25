@@ -24,7 +24,7 @@
 				<li class="contact-list-phone"><span>手机:</span> +86 159-0660-8592</li>
 				<li class="contact-list-phone"><span>手机:</span> +86 156-9571-2625</li>
 				<!-- <li class="contact-list-fax"><span>Fax:</span> 1.800.353.253</li> -->
-				<li class="contact-list-mail"><span>邮箱:</span> foreverwill@zju.edu.cn</li>
+				<li class="contact-list-mail"><span>邮箱:</span> <a href="mailto:foreverwill@zju.edu.cn"> foreverwill@zju.edu.cn </a></li>
 			</ul>
 		
 		</div>
